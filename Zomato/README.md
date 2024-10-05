@@ -13,7 +13,6 @@ This was my Final project for the TripleTen Business Intelligence Analytics Prog
 
 #### Description:
 - This was a Sales Analysis.
-- 2 pages in Power BI.
 - Includes KPI cards, line charts, map charts, bar charts, and trend analysis.
 
 #### Assumptions:
