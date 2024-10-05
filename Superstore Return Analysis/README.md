@@ -1,5 +1,3 @@
-# File Title: 2023.12.03.Project5.TB
-
 This was the fifth project that I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned for Tableau Story Telling. The purpose was to prepare an analysis for the CEO of Superstore to help them understand what is causing customers to return their orders and how to reduce the volume of returned orders
 
 Tableau Public Share Link: <a href='https://public.tableau.com/app/profile/jacob.irsan/vizzes\><u>here</u>.</a> 
