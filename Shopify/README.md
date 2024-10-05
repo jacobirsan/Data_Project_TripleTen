@@ -1,5 +1,3 @@
-# File Title: ShopifyPBI
-
 This was the 6th project that I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned about Power BI. The purpose was to review the landscape of apps on the Shopify platform, using data scraped from publicly available Shopify websites, and to figure out what key factors play into the success of a Shopify app.
 
 ### Table of Contents for Repository Artifacts
