@@ -9,17 +9,6 @@ Tableau Public Share Link: <a href='https://public.tableau.com/app/profile/jacob
 | 2 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
 | 3 | [Mockup Dashboard Layout](https://github.com/jacobirsan/README.md/blob/3024a309483d3f99d5b541db9ececa72d3bc00e2/Superstore%20Return%20Analysis/mockup%20tableau.png) | Some of mockups that TripleTen asked me to make for the dashboard. |
 
-### Table of Contents for README
-| Section Title | Description |
-| ----------- |----------- |
-| DATA | Describes the source of data, included files, tables, and fields. |
-| Description | Describes the final product's purpose, software, format, and included visuals. |
-| Assumptions | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
-| Process | A general outline of how this project formed from start to finish. |
-| Findings | Insights learned from the data analysis. |
-| Notes | Notes sent with the project to the reviewer for more context about presentation choices. |
-
-
 #### Description:
 - Tableau Visualization and Presentation
 - Includes data analysis, charts, dashboard, and stories
