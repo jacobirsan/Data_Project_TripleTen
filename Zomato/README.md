@@ -8,7 +8,7 @@ This was my Final project for the TripleTen Business Intelligence Analytics Prog
 | 1 | [Final Project Report Plan](https://github.com/jacobirsan/README.md/blob/cf25a553eee662cdd60b5d561baaa57958140394/Zomato/TripleTen%20Final%20Project%20Plan-%20Jacob%20Irsan.pdf) | A .pdf file with the written report for this project. |
 | 2 | [Final.pdf](https://github.com/jacobirsan/README.md/blob/cf25a553eee662cdd60b5d561baaa57958140394/Zomato/Final%20Project%20Report%20-%20Jacob%20Irsan.pdf) | A .pdf file with the written report for this project. |
 | 3 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
-| 4 | [View Dashboard on Tableau](https://public.tableau.com/app/profile/jacob.irsan/viz/Book1_17272607929740/ZomatoSalesAnalysisDashboard?publish=yes)
+| 4 | [View Dashboard on Tableau](https://public.tableau.com/app/profile/jacob.irsan/viz/Book1_17272607929740/ZomatoSalesAnalysisDashboard?publish=yes) | A view of full dashboard that presented for this project. |
 
 
 #### Description:
